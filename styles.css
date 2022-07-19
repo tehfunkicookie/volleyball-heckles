@@ -1,0 +1,62 @@
+body{
+  background-image: url('images/mbo_cover.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1{
+  text-align: center;
+  text-decoration-color: yellow;
+  font-size: 10rem;
+  font-family: 'Arvo', cursive;
+  color: #FFD700;
+  text-shadow: 3px 0 #000000;
+}
+
+.cp {
+  background-image: url("images/caseypatterson.JPG");
+  background-size: cover;
+  background-position: 100%;
+
+}
+
+.tc{
+  background-image: url("images/trevorcrabb.jpg");
+  background-size: cover;
+}
+
+.nl{
+  background-image: url("images/nicklucena.jpg");
+  background-size: cover;
+  background-position: 90%;
+}
+
+.players{
+  margin: 10% auto;
+  text-align: center;
+}
+
+.volleyball{
+  outline: none;
+  border: 10px solid #000000;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #FFD700;
+  text-shadow: 3px 0 #000000;
+  border-radius: 15px;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin: 5%;
+  background-color: white;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+  text-align: center;
+}
